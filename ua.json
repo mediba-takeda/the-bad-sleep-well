@@ -1,0 +1,1232 @@
+{
+  "userAgents": [
+    {
+      "id": 190,
+      "device": "かんたんケータイ KYF36",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF36 Build/100.0.2100; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYF36 Build/100.0.2100; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 189,
+      "device": "MARVERA KYF35",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF35 Build/100.0.2100; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYF35 Build/100.0.2100; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 188,
+      "device": "Qua phone QX",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.1.1; KYV42 Build/1.000AL.27.a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.1.1; KYV42 Build/1.000AL.27.a; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    },
+    {
+      "id": 187,
+      "device": "HTC U11 HTV33",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.1.1; HTV33 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.1.1; HTV33 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    },
+    {
+      "id": 186,
+      "device": "AQUOS R SHV39",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.1.1; SHV39 Build/S6077) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.1.1; SHV39 Build/S6077; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    },
+    {
+      "id": 185,
+      "device": "TORQUE G03",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.1.1; KYV41 Build/1.000BE.36.h) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.1.1; KYV41 Build/1.000BE.36.h; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    },
+    {
+      "id": 184,
+      "device": "Galaxy S8 SCV36 ",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SCV36 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SCV36 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SCV36 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 183,
+      "device": "Galaxy S8+ SCV35",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SCV35 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.2 Chrome/51.0.2704.106 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SCV35 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SCV35 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 182,
+      "device": "Xperia XZs SOV35",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.1.1; SOV35 Build/41.2.C.0.162) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.1.1; SOV35 Build/41.2.C.0.162; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 181,
+      "device": "GRATINA 4G KYF34 ",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF34 Build/100.0.2210; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYF34 Build/100.0.2210; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 180,
+      "device": "rafre KYV40",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; KYV40 Build/1.000SI.45.k) AppleWebkit/537.36 (KHTML,like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; KYV40 Build/1.000SI.45.k; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 179,
+      "device": "TORQUE X01",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF33 Build/100.1.2830; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYF33 Build/100.1.2830; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 "
+    },
+    {
+      "id": 178,
+      "device": "AQUOS SERIE mini SHV38",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV38 Build/SC288) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.77 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV38 Build/SC288; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.77 Mobile Safari/537.36"
+    },
+    {
+      "id": 177,
+      "device": "miraie f",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; KYV39 Build/1.000AR.40.c; wv)AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; KYV39 Build/1.000AR.40.c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; KYV39 Build/1.000AR.40.c; wv)AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Mobile Safari/537.36"
+    },
+    {
+      "id": 176,
+      "device": "Qua tab PZ(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; LGT32 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; LGT32 BuildNRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Safari/537.36"
+    },
+    {
+      "id": 175,
+      "device": "Qua tab PZ",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; LGT32 Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; LGT32 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Safari/537.36"
+    },
+    {
+      "id": 174,
+      "device": "URBANO V03",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; KYV38 Build/1.000RI.37.c;) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; KYV38 Build/1.000RI.37.c; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36"
+    },
+    {
+      "id": 173,
+      "device": "Xperia XZ SOV34(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SOV34 Build/39.2.C.0.193) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SOV34 Build/39.2.C.0.193; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 172,
+      "device": "Xperia XZ SOV34",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SOV34 Build/39.0.C.0.282) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SOV34 Build/39.0.C.0.282; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36"
+    },
+    {
+      "id": 171,
+      "device": "AQUOS U SHV37(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV37Build/S3083) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV37 Build/S3083; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 170,
+      "device": "AQUOS U SHV37",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV37Build/SA250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV37 Build/SA250; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36"
+    },
+    {
+      "id": 169,
+      "device": "isai Beat LGV34",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; LGV34 Build/NRD90U) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; LGV34 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Mobile Safari/537.36"
+    },
+    {
+      "id": 168,
+      "device": "BASIO2",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV36 Build/S7150) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV36 Build/S7150; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36"
+    },
+    {
+      "id": 167,
+      "device": "かんたんケータイ KYF32",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF32 Build/100.1.2120; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「User Agent ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 166,
+      "device": "HTC 10 HTV32(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; HTV32 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; HTV32 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 165,
+      "device": "HTC 10 HTV32",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; HTV32 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; HTV32 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36"
+    },
+    {
+      "id": 164,
+      "device": "AQUOS SERIE SHV34(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV34 Build/S2275V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV34 Build/S2275; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 163,
+      "device": "AQUOS SERIE SHV34",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV34 Build/S5290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV34 Build/S5290; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36"
+    },
+    {
+      "id": 162,
+      "device": "AQUOS U SHV35(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV35 Build/S4041) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV35 Build/S4041; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 161,
+      "device": "AQUOS U SHV35",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV35 Build/S6020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV35 Build/S6020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36"
+    },
+    {
+      "id": 160,
+      "device": "AQUOS K SHF33",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; SHF33 Build/S6030) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「User Agent ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 159,
+      "device": "Qua phone PX(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; LGV33 Build/NRD90U) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; LGV33 Build/NRD90U; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 158,
+      "device": "Qua phone PX",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; LGV33 Build/MXB48T) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; LGV33 Build/MXB48T; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36"
+    },
+    {
+      "id": 157,
+      "device": "Qua tab PX(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; LGT31 Build/NRD90U) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; LGT31 Build/NRD90U; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Safari/537.36"
+    },
+    {
+      "id": 156,
+      "device": "Qua tab PX",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; LGT31 Build/MXB48T) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; LGT31 Build/MXB48T; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Safari/537.36"
+    },
+    {
+      "id": 155,
+      "device": "Xperia X Performance SOV33(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SOV33 Build/39.2.C.0.169) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SOV33 Build/39.2.C.0.169; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.2840.85 Mobile Safari/537.36"
+    },
+    {
+      "id": 154,
+      "device": "Xperia X Performance SOV33",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SOV33 Build/35.0.D.0.326) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SOV33 Build/35.0.D.0.326; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36"
+    },
+    {
+      "id": 153,
+      "device": "Galaxy S7 edge SCV33(Android 7.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SCV33 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.0 Chrome/51.0.2704.106 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SCV33 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SCV33 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 152,
+      "device": "Galaxy S7 edge SCV33",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCV33 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCV33 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCV33 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 151,
+      "device": "Qua tab 02",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; HWT31 Build/Federer) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; HWT31 Build/Federer; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Safari/537.36"
+    },
+    {
+      "id": 150,
+      "device": "AQUOS SERIE mini SHV33(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV33 Build/S4112) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV33 Build/S4112; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36"
+    },
+    {
+      "id": 149,
+      "device": "AQUOS SERIE mini SHV33(Android 6.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV33 Build/RA120) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV33 Build/RA120; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Mobile Safari/537.36"
+    },
+    {
+      "id": 148,
+      "device": "AQUOS SERIE mini SHV33",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; SHV33 Build/SC260) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; SHV33 Build/SC260; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/45.0.2454.95 Mobile Safari/537.36"
+    },
+    {
+      "id": 147,
+      "device": "Qua phone",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; KYV37 Build/100.0.2010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYV37 Build/100.0.2010; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 146,
+      "device": "GRATINA 4G(注1)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; KYF31 Build/100.1.4600; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 145,
+      "device": "Galaxy A8 SCV32(Android6.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCV32 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCV32 Build//MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCV32 Build//MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Mobile Safari/537.36"
+    },
+    {
+      "id": 144,
+      "device": "Galaxy A8 SCV32",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1.1; SCV32 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.5 Chrome/38.0.2125.102 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; SCV32 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; SCV32 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36"
+    },
+    {
+      "id": 143,
+      "device": "DIGNO rafre KYV36",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; KYV36 Build/100.0.2710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; KYV36 Build/100.0.2710; wv) AppleWebkit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 142,
+      "device": "Xperia Z5 SOV32(Android7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SOV32 Build/32.3.C.0.271) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SOV32 Build/32.3.C.0.271; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 7.0; SOV32 Build/32.3.C.0.271; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 141,
+      "device": "Xperia Z5 SOV32(Android6.0.1OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0; SOV32 Build/32.1.C.0.281) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0; SOV32 Build/32.1.C.0.281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 6.0; SOV32 Build/32.1.C.0281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 140,
+      "device": "Xperia Z5 SOV32",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1.1; SOV32 Build/32.0.D.0.282) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1.1; SOV32 Build/32.0.D.0.282; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.117 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.1.1; SOV32 Build/32.0.D.0.282; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 139,
+      "device": "Xperia Z4 Tablet SOT31(Android 7.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SOT31 Build/32.3.C.0.290) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.91 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SOT31 Build/32.3.C.0.290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SOT31 Build/32.3.C.0.290; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 7.0; SOT31 Build/32.3.C.0.290; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36"
+    },
+    {
+      "id": 138,
+      "device": "Xperia Z4 Tablet SOT31(Android 6.0.1OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0; SOT31 Build/32.1.C.0.281) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0; SOT31 Build/32.1.C.0.281) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0; SOT31 Build/32.1.C.0.281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 6.0; SOT31 Build/32.1.C.0.281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36"
+    },
+    {
+      "id": 137,
+      "device": "Xperia Z4 Tablet SOT31",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SOT31 Build/28.0.D.6.71) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SOT31 Build/28.0.D.6.71) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SOT31 Build/28.0.D.6.71; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.138 Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.0.2; SOT31 Build/28.0.D.6.71; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36"
+    },
+    {
+      "id": 136,
+      "device": "Qua tab 01",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1; KYT31 Build/100.0.1c10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1; KYT31 Build/100.0.1c10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Safari/537.36"
+    },
+    {
+      "id": 135,
+      "device": "Xperia Z4 SOV31(Android 7.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SOV31 Build/32.3.C.0.274) AppleWebKit/537.36 (KHTML, like Gecko) 4.0 Chrome/52.0.2743.95 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SOV31 Build/32.3.C.0.274) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SOV31 Build/32.3.C.0.274; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 7.0; SOV31 Build/32.3.C.0.274; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 134,
+      "device": "Xperia Z4 SOV31(Android 6.0.1OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0; SOV31 Build/32.1.C.0.281) AppleWebKit/537.36 (KHTML, like Gecko) 4.0 Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0; SOV31 Build/32.1.C.0.281) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0; SOV31 Build/32.1.C.0.281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 6.0; SOV31 Build/32.1.C.0.281; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 133,
+      "device": "Xperia Z4 SOV31",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SOV31 Build/28.0.D.0.404) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SOV31 Build/28.0.D.0.404) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SOV31 Build/28.0.D.0.404) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.0.2; SOV31 Build/28.0.D.0.404) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 132,
+      "device": "URBANO V02",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1; KYV34 Build/100.2.2300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1; KYV34 Build/100.2.2300; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36"
+    },
+    {
+      "id": 131,
+      "device": "HTC J butterfly HTV31(Android 6.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; HTV31 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/51.0.2704.81 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; HTV31 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36"
+    },
+    {
+      "id": 130,
+      "device": "HTC J butterfly HTV31",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; HTV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; HTV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 129,
+      "device": "isai vivid LGV32(Android 6.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0; LGV32 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0; LGV32 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0; LGV32 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36"
+    },
+    {
+      "id": 128,
+      "device": "isai vivid LGV32",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.1; LGV32 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1; LGV32 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1; LGV32 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 127,
+      "device": "AQUOS SERIE SHV32(Android 7.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SHV32 Build/S4211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SHV32 Build/S4211; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
+    },
+    {
+      "id": 126,
+      "device": "AQUOS SERIE SHV32(Android 6.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SHV32 Build/R3242) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SHV32 Build/R3242; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 125,
+      "device": "AQUOS SERIE SHV32",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SHV32 Build/S5231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SHV32 Build/S5231; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36"
+    },
+    {
+      "id": 124,
+      "device": "TORQUE G02(Android 6.0OSアップデート時)",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; KYV35 Build201.0.1f00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; KYV35 Build/201.0.1f00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36"
+    },
+    {
+      "id": 123,
+      "device": "TORQUE G02",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.1; KYV35 Build/100.4.2601) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.1; KYV35 Build/100.4.2601; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.137 Mobile Safari/537.36"
+    },
+    {
+      "id": 122,
+      "device": "Galaxy S6 edge SCV31(Android 7.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 7.0; SCV31 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.0 Chrome/51.0.2704.106 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 7.0; SCV31 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 7.0; SCV31 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+    },
+    {
+      "id": 121,
+      "device": "Galaxy S6 edge SCV31(Android 6.0.1OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCV31 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCV31 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCV31 Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36"
+    },
+    {
+      "id": 120,
+      "device": "Galaxy S6 edge SCV31",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SCV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SCV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SCV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 119,
+      "device": "AQUOS K SHF32(注1)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; SHF32 Build/S7031) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 118,
+      "device": "INFOBAR A03",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; KYV33 Build/100.0.2a10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; KYV33 Build/100.0.2a10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 117,
+      "device": "AQUOS SERIE mini SHV31",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; SHV31 Build/S1190) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; SHV31 Build/S1190) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 116,
+      "device": "BASIO",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; KYV32 Build/100.0.1e10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; KYV32 Build/100.0.1e10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 115,
+      "device": "miraie(注1)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; KYL23 Build/100.1.2150) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 114,
+      "device": "AQUOS K SHF31(注1)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; SHF31 Build/S2101) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "非搭載",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 113,
+      "device": "GALAXY Tab S SCT21(Android 6.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCT21 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCT21 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCT21 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Safari/537.36"
+    },
+    {
+      "id": 112,
+      "device": "GALAXY Tab S SCT21(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SCT21 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SCT21 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SCT21 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Safari/537.36"
+    },
+    {
+      "id": 111,
+      "device": "GALAXY Tab S SCT21",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; ja-jp; SCT21 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; SCT21 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.534 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; SCT21 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 110,
+      "device": "isai VL LGV31(Android 5.0.2OSアップデート時)",
+      "インターネット": "Mozilla/5.0 (Linux; Android 5.0.2; LGV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; LGV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; LGV31 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 109,
+      "device": "isai VL LGV31",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; LGV31 Build/KVT49L.LGV3110d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; LGV31 Build/KVT49L.LGV3110d) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; LGV31 Build/KVT49L.LGV3110d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 108,
+      "device": "URBANO V01",
+      "ブラウザ": "非搭載",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; KYV31 Build/100.0.2420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; KYV31 Build/100.0.2420) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 107,
+      "device": "Xperia Z3 SOL26(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SOL26 Build/23.1.G.2.155) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SOL26 Build/23.1.G.2.155) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SOL26 Build/23.1.G.2.155; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.138 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.0.2; SOL26 Build/23.1.G.2.155; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 106,
+      "device": "Xperia Z3 SOL26",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; SOL26 Build/23.0.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; SOL26 Build/23.0.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; SOL26 Build/23.0.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 4.4.4; SOL26 Build/23.0.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 105,
+      "device": "GALAXY Note Edge SCL24(Android 6.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCL24 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCL24 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCL24 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36"
+    },
+    {
+      "id": 104,
+      "device": "GALAXY Note Edge SCL24(Android 5.0.1OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.1; SCL24 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.1; SCL24 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.1; SCL24 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36"
+    },
+    {
+      "id": 103,
+      "device": "GALAXY Note Edge SCL24",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; ja-jp; SCL24 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; SCL24 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.534 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.4; SCL24 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 102,
+      "device": "ASUS MeMO Pad 8 AST21",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; AST21 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; AST21 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.132 Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 101,
+      "device": "Xperia Z2 Tablet SOT21(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SOT21 Build/23.1.G.2.151) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SOT21 Build/23.1.G.2.151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SOT21 Build/23.1.G.2.151; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.138 Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.0.2; SOT21 Build/23.1.G.2.151; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Safari/537.36"
+    },
+    {
+      "id": 100,
+      "device": "Xperia Z2 Tablet SOT21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SOT21 Build/17.1.1.C.1.45) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SOT21 Build/17.1.1.C.1.45) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SOT21 Build/17.1.1.C.1.45) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36",
+      "ブラウザ (スモールアプリ)": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 99,
+      "device": "HTC J butterfly HTL23(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; HTL23 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; HTL23 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; HTL23 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 98,
+      "device": "HTC J butterfly HTL23(Android 4.4.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.4; HTL23 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.4; HTL23 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 97,
+      "device": "HTC J butterfly HTL23",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; HTL23 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; HTL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; HTL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 96,
+      "device": "TORQUE G01",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; KYY24 Build/100.1.1910) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; KYY24 Build/100.1.1910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 95,
+      "device": "URBANO L03",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; KYY23 Build/100.1.2300) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; KYY23 Build/100.1.2300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 94,
+      "device": "AQUOS SERIE SHL25(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SHL25 Build/SB171; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SHL25 Build/SB171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 93,
+      "device": "AQUOS SERIE SHL25",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; SHL25 Build/S5290) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SHL25 Build/S5290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 92,
+      "device": "GALAXY S5 SCL23(Android 6.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 6.0.1; SCL23 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 6.0.1; SCL23 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 6.0.1; SCL23 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0.2623.105 Mobile Safari/537.36"
+    },
+    {
+      "id": 91,
+      "device": "GALAXY S5 SCL23(Android 5.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0; SCL23 Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0; SCL23 Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0; SCL23 Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 90,
+      "device": "GALAXY S5 SCL23",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; ja-jp; SCL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SCL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.514 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SCL23 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 89,
+      "device": "Xperia ZL2 SOL25(Android 5.0.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0.2; SOL25 Build/23.1.G.2.151) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; SOL25 Build/23.1.G.2.151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; SOL25 Build/23.1.G.2.151; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.138 Mobile Safari/537.36",
+      "ブラウザ(スモールアプリ)": "Mozilla/5.0 (Linux; Android 5.0.2; SOL25 Build/23.1.G.2.151; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 88,
+      "device": "Xperia ZL2 SOL25",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SOL25 Build/17.1.C.0.296) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SOL25 Build/17.1.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SOL25 Build/17.1.C.0.296) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36",
+      "ブラウザ (スモールアプリ)": "「ブラウザ」と同一のUser Agent"
+    },
+    {
+      "id": 87,
+      "device": "isai FL LGL24(Android 5.0.2OSアップデート時)",
+      "インターネット": "Mozilla/5.0 (Linux; Android 5.0.2; LGL24 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0.2; LGL24 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0.2; LGL24 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 86,
+      "device": "isai FL LGL24",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; LGL24 Build/KVT49L.LGL2410a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 85,
+      "device": "AQUOS PAD SHT22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHT22 Build/S2120) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SHT22 Build/S2120) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36"
+    },
+    {
+      "id": 84,
+      "device": "AQUOS PHONE SERIE mini SHL24",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL24 Build/S2040) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SHL24 Build/S2040) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+    },
+    {
+      "id": 83,
+      "device": "URBANO L02",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYY22 Build/100.2.0a30) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; KYY22 Build/100.2.0a30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+    },
+    {
+      "id": 82,
+      "device": "G Flex LGL23",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; LGL23 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; LGL23 Build/JDQ39B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 81,
+      "device": "Xperia Z Ultra SOL24(Android 4.4.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SonySOL24 Build/14.3.C.0.239) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SOL24 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SOL24 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 80,
+      "device": "Xperia Z Ultra SOL24",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SonySOL24 Build/14.1.K.1.217) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注2)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SOL24 Build/14.1.K.1.217) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 79,
+      "device": "ARROWS Tab FJT21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJT21 Build/V09R44D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; FJT21 Build/V09R44D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Safari/537.36",
+      "かんたんインターネット": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJT21 Build/V09R44D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 SimplifiedBrowser"
+    },
+    {
+      "id": 78,
+      "device": "Xperia Z1 SOL23(Android 4.4.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; SonySOL23 Build/14.3.C.0.239) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SOL23 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SOL23 Build/14.3.C.0.239) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 77,
+      "device": "Xperia Z1 SOL23",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SonySOL23 Build/14.1.C.0.467) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注3)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SOL23 Build/14.1.C.0.467) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 76,
+      "device": "GALAXY Note 3 SCL22(Android 5.0OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 5.0; SCL22 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 5.0; SCL22 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 5.0; SCL22 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36"
+    },
+    {
+      "id": 75,
+      "device": "GALAXY Note 3 SCL22(Android 4.4.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.4.2; ja-jp; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; SCL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 74,
+      "device": "GALAXY Note 3 SCL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; Android 4.3; ja-jp; SCL22 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36(注4)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.3; SCL22 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 73,
+      "device": "DIGNO M KYL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYL22 Build/100.1.1f00) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; KYL22 Build/100.1.1f00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 72,
+      "device": "isai LGL22(Android 4.4.2OSアップデート時)",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 71,
+      "device": "isai LGL22",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; LGL22 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; LGL22 Build/JDQ39B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 70,
+      "device": "AQUOS PHONE SERIE SHL23",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL23 Build/SB070) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SHL23 Build/SB070) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 69,
+      "device": "ARROWS Z FJL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; FJL22 Build/V09R48H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; FJL22 Build/V09R48H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 68,
+      "device": "AQUOS PHONE SERIE SHL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SHL22 Build/S6290) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SHL22 Build/S6290) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+    },
+    {
+      "id": 67,
+      "device": "URBANO L01",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; KYY21 Build/100.0.2480) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; KYY21 Build/100.0.2480) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile Safari/537.31"
+    },
+    {
+      "id": 66,
+      "device": "HTC J One HTL22(Android 4.4.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.4.2; ja-jp; HTL22 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.4.2; HTL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mobile Safari/537.36",
+      "WebView": "Mozilla/5.0 (Linux; Android 4.4.2; HTL22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 65,
+      "device": "HTC J One HTL22(Android 4.2.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; HTL22 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; HTL22 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 64,
+      "device": "HTC J One HTL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; HTL22 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; HTL22 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 63,
+      "device": "Xperia UL SOL22(Android 4.2.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SonySOL22 Build/10.3.1.D.0.220) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注5)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.2.2; SOL22 Build/10.3.1.D.0.220) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 62,
+      "device": "Xperia UL SOL22",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SonySOL22 Build/10.2.F.3.43) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注5)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; SOL22 Build/10.2.F.3.43) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 61,
+      "device": "Smart TV Stick(Stickタイプの小型STB)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SmartTVStick Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"
+    },
+    {
+      "id": 60,
+      "device": "INFOBAR A02",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; HTX21 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.1; HTX21 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 59,
+      "device": "AQUOS PAD SHT21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SHT21 Build/S5140) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; SHT21 Build/S5140) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19"
+    },
+    {
+      "id": 58,
+      "device": "AQUOS PAD SHT21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SHT21 Build/SB221) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; SHT21 Build/SB221) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19"
+    },
+    {
+      "id": 57,
+      "device": "HTC J butterfly HTL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; HTL21 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.1; HTL21 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 56,
+      "device": "GALAXY SIII Progre SCL21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SCL21 Build/JZ054K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; SCL21 Build/JZ054K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 55,
+      "device": "GALAXY SIII Progre SCL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SCL21 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; SCL21 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 54,
+      "device": "G'zOne TYPE-L CAL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; CAL21 Build/A1000091) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; CAL21 Build/A1000091) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 53,
+      "device": "AQUOS PHONE SERIE SHL21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SHL21 Build/S5170) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; SHL21 Build/S5170) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 52,
+      "device": "AQUOS PHONE SERIE SHL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SHL21 Build/SA132) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; SHL21 Build/SA132) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 51,
+      "device": "DIGNO S KYL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; KYL21 Build/015.3.3510) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; KYL21 Build/015.3.3510) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 50,
+      "device": "ARROWS ef FJL21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; FJL21 Build/V07R30B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; FJL21 Build/V07R30B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36"
+    },
+    {
+      "id": 49,
+      "device": "ARROWS ef FJL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; FJL21 Build/V23R39X) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; FJL21 Build/V23R39X) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 48,
+      "device": "Xperia VL SOL21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SonySOL21 Build/9.1.D.0.395) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注6)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; SOL21 Build/9.1.D.0.395) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 47,
+      "device": "Xperia VL SOL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SonySOL21 Build/9.0.F.0.195) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注6)",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; SOL21 Build/9.0.F.0.195) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 46,
+      "device": "Optimus G LGL21",
+      "インターネット": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; LGL21 Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; LGL21 Build/IMM76L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 45,
+      "device": "VEGA PTL21(Android 4.1.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; PTL21 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.1.2; PTL21 Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 44,
+      "device": "VEGA PTL21",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; PTL21 Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "Chrome": "Mozilla/5.0 (Linux; Android 4.0.4; PTL21 Build/IMM76I) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+    },
+    {
+      "id": 43,
+      "device": "ARROWS Z ISW13F",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW13F Build/V51R37G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 42,
+      "device": "AQUOS PHONE CL IS17SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS17SH Build/S7070) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 41,
+      "device": "AQUOS PHONE SL IS15SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS15SH Build/S6230) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 40,
+      "device": "AQUOS PHONE SERIE ISW16SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; ISW16SH Build/S6151) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 39,
+      "device": "URBANO PROGRESSO",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; URBANO PROGRESSO Build/008.2.2400) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 38,
+      "device": "HTC J ISW13HT",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW13HT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 37,
+      "device": "XPERIA acro HD IS12S(Android 4.0.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; SonyEricssonIS12S Build/6.1.D.0.170) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注7)"
+    },
+    {
+      "id": 36,
+      "device": "XPERIA acro HD IS12S",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.7; ja-jp; SonyEricssonIS12S Build/6.0.D.0.270) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注7)"
+    },
+    {
+      "id": 35,
+      "device": "MOTOROLA RAZR IS12M(Android 4.0.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS12M Build/6.7.5-25_LE-8) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 34,
+      "device": "MOTOROLA RAZR IS12M",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.6; ja-jp; IS12M Build/6.5.1-134_SWK-68_LE-18) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 33,
+      "device": "INFOBAR C01",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; INFOBAR C01 Build/S1190) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 32,
+      "device": "GALAXY SII WiMAX ISW11SC(Android 4.0.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; ISW11SC Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 31,
+      "device": "GALAXY SII WiMAX ISW11SC",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.6; ja-jp; ISW11SC Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 30,
+      "device": "Optimus X IS11LG(Android 4.0.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.4; ja-jp; IS11LG Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 29,
+      "device": "Optimus X IS11LG",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.7; ja-jp; IS11LG Build/GWK74) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 28,
+      "device": "ARROWS ES IS12F",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS12F Build/FGK600) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 27,
+      "device": "AQUOS PHONE IS14SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS14SH Build/SC100) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 26,
+      "device": "MEDIAS BR IS11N",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS11N Build/01.02.00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 25,
+      "device": "ARROWS Z ISW11F(Android 4.0.3OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW11F Build/FIK700) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+    },
+    {
+      "id": 24,
+      "device": "ARROWS Z ISW11F",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; ISW11F Build/FGK500) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 23,
+      "device": "DIGNO ISW11K",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; ISW11K Build/134.3.0005) AppleWebkit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 22,
+      "device": "AQUOS PHONE IS13SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; IS13SH Build/SA310) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 21,
+      "device": "HTC EVO 3D ISW12HT(Android 4.0.3OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 4.0.3; ja-jp; ISW12HT Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30(注8)"
+    },
+    {
+      "id": 20,
+      "device": "HTC EVO 3D ISW12HT",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW12HT Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注8)"
+    },
+    {
+      "id": 19,
+      "device": "MOTOROLA PHOTON ISW11M",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW11M Build/4.5.1A-1_KDI-92_LE-24) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 18,
+      "device": "EIS01PT",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; EIS01PT Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 17,
+      "device": "MIRACH IS11PT",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS11PT Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 16,
+      "device": "REGZA Phone IS11T",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS11T Build/FGK400) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 15,
+      "device": "G'zOne IS11CA",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS11CA Build/01.08.00) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 14,
+      "device": "INFOBAR A01",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; INFOBAR A01 Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 13,
+      "device": "AQUOS PHONE IS12SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS12SH Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 12,
+      "device": "AQUOS PHONE IS11SH",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; IS11SH Build/S6160) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 11,
+      "device": "XPERIA acro IS11S(Android 2.3.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SonyEricssonIS11S Build/4.0.1.B.0.112) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注9)"
+    },
+    {
+      "id": 10,
+      "device": "XPERIA acro IS11S",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SonyEricssonIS11S Build/3.0.1.C.0.80) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注9)"
+    },
+    {
+      "id": 9,
+      "device": "HTC EVO WiMAX ISW11HT(Android 2.3.4OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; ISW11HT Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注10)"
+    },
+    {
+      "id": 8,
+      "device": "HTC EVO WiMAX ISW11HT",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; ISW11HT Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1(注10)"
+    },
+    {
+      "id": 7,
+      "device": "SIRIUS α IS06",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS06 Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 6,
+      "device": "IS05(Android 2.3.4OSアップデート時)",
+      "ブラウザ": " Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS05 Build/S9290) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 5,
+      "device": "IS05",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS05 Build/S2251) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 4,
+      "device": "REGZA Phone IS04(Android 2.2.2OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.2.2; ja-jp; IS04 Build/FFK300) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 3,
+      "device": "REGZA Phone IS04",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; IS04 Build/FEK100) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"
+    },
+    {
+      "id": 2,
+      "device": "IS03(Android 2.2.1OSアップデート時)",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS03 Build/S3251) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+    },
+    {
+      "id": 1,
+      "device": "IS03",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; IS03 Build/SB060) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"
+    },
+    {
+      "id": 0,
+      "device": "IS01",
+      "ブラウザ": "Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; IS01 Build/S6191) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "the-bad-sleep-well",
+  "description": "The Bad sleep well. Scraping a website and genrate json file",
+  "repository": "git@github.com:mediba-takeda/the-bad-sleep-well.git",
+  "engines": {
+    "node": ">=7"
+  },
+  "version": "1.0.0",
+  "author": "[mediba] Satoshi Takeda <takeda@mediba.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "chroco": "^0.0.1-beta.2"
+  }
+}
