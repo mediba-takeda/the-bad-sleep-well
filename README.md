@@ -17,7 +17,7 @@ $ yarn install
 $ node collection/.
 ```
 
-# Experimental Parallel Executions with Worker(jest-worker)
+# [Experimental] Parallel Executions with Worker(jest-worker)
 
 ```bash
 $ node worker/.
