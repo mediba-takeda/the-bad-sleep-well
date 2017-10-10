@@ -2,10 +2,6 @@ const { executor } = require('chroco')
 const Badsleepwell = require('./Badsleepwell')
 
 const commands = {
-  options: {
-    headless: false,
-    logLevel: ['info']
-  },
   receivers: { Badsleepwell },
   scenarios: [
     {

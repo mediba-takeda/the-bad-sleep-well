@@ -67,7 +67,7 @@ module.exports = class {
         })
         return userAgents
       })
-      logger.info`userAgents: ${this.userAgents}`
+      // logger.info`userAgents: ${this.userAgents}`
       writeFileSync('ua.json', JSON.stringify({ userAgents: this.userAgents }, null, 2))
     } catch (error) {
       console.warn(error)
