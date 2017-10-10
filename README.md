@@ -14,7 +14,13 @@ $ yarn install
 # Execution
 
 ```bash
-$ node execution.js
+$ node collection/.
+```
+
+# Experimental Parallel Executions with Worker(jest-worker)
+
+```bash
+$ node worker/.
 ```
 
 # dependency

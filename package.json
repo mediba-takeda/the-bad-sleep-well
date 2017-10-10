@@ -9,6 +9,7 @@
   "author": "[mediba] Satoshi Takeda <takeda@mediba.jp>",
   "license": "MIT",
   "dependencies": {
-    "chroco": "^0.0.1-beta.2"
+    "chroco": "^0.0.1-beta.2",
+    "jest-worker": "^21.3.0-beta.1"
   }
 }
